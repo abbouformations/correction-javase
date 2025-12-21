@@ -1,0 +1,3 @@
+alami;mohammed;20
+imad;samy;54
+mohamed;ali;40

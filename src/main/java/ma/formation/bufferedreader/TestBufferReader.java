@@ -17,6 +17,7 @@ public class TestBufferReader {
                 String line = br.readLine();
                 System.out.println(line);
             }
+            br.close();
 
         } catch (FileNotFoundException e) {
           e.printStackTrace();
